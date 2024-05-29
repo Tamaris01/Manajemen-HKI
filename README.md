@@ -47,7 +47,7 @@ Ikuti langkah-langkah berikut untuk mengatur dan menjalankan aplikasi di lingkun
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=nama_database
+    DB_DATABASE=SENTRAHKI2
     DB_USERNAME=username
     DB_PASSWORD=password
     ```
